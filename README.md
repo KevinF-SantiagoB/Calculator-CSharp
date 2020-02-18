@@ -19,3 +19,7 @@ Francisco Javier Gutierrez Leor | 1802006
   - ClassSum.cs
 
 :page_facing_up: Form1.cs (Principal Code)
+
+# Preview 
+
+![Calculator](https://user-images.githubusercontent.com/61130793/74703678-8b957a80-51d3-11ea-8521-739b8a7c7f2c.JPG)
