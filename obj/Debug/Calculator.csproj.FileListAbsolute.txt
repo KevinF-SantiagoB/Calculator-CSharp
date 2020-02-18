@@ -1,0 +1,9 @@
+C:\Users\kfsan\Documents\Visual Studio\Proyectos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\kfsan\Documents\Visual Studio\Proyectos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\kfsan\Documents\Visual Studio\Proyectos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\kfsan\Documents\Visual Studio\Proyectos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\kfsan\Documents\Visual Studio\Proyectos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\kfsan\Documents\Visual Studio\Proyectos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\kfsan\Documents\Visual Studio\Proyectos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\kfsan\Documents\Visual Studio\Proyectos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\kfsan\Documents\Visual Studio\Proyectos\Calculator\Calculator\obj\Debug\Calculator.Calculadora.resources
